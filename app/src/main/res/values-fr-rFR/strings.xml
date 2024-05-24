@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">List des taches</string>
+    <string name="no_sort">Pas de tri</string>
+    <string name="sort_priority">Tri par priorité</string>
+    <string name="sort_title">Tri par titre</string>
+    <string name="more">Plus</string>
+</resources>

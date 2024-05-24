@@ -1,0 +1,7 @@
+<resources>
+    <string name="title">Todo List</string>
+    <string name="no_sort">No sort</string>
+    <string name="sort_priority">Sort by priority</string>
+    <string name="sort_title">Sort by title</string>
+    <string name="more">More</string>
+</resources>
